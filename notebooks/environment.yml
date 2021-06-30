@@ -1,0 +1,15 @@
+name: na-cordex-zarr-jnb
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pytorch
+  - jupyterlab
+  - opencv
+  - watermark
+  - xarray
+  - netcdf4
+  - numpy
+  - pip
+  #- intake-esm>2020.3.16.2
+  - matplotlib
